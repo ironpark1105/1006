@@ -39,9 +39,6 @@ header{
     margin: 20px 0;
 }
 .header-nav ul{
-
-}
-.header-nav ul{
     display: flex;
     margin-left: 140px;
 }
@@ -310,6 +307,7 @@ padding-top: 12px;
     padding-left: 8px;
 }
 .img{
+    padding-top: 70px;
     margin: 0 auto;
 }
 .img-box p{
